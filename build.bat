@@ -1,0 +1,1 @@
+gcc server.c -o run_server.exe -l ws2_32
